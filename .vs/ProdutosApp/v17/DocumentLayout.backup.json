@@ -1,34 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas c# sabado\\produtosapp\\produtosapp\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas c# sabado\\produtosapp\\produtosapp\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas c# sabado\\produtosapp\\produtosapp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas c# sabado\\produtosapp\\produtosapp\\produtosapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\produtosapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas c# sabado\\produtosapp\\produtosapp\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas c# sabado\\produtosapp\\produtosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\Cadastro de Categorias.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cadastro de Categorias.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas c# sabado\\produtosapp\\produtosapp\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\mappings\\categoriamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\mappings\\categoriamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\migrations\\20250315193021_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\migrations\\20250315193021_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\mappings\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\mappings\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\produtosapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\produtosapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\produtosapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\produtosapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|c:\\users\\coti 307 - 12\\desktop\\anderson aulas csharp sabado\\produtosapp\\produtosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F4EF216-77B1-41A9-B83C-D531056101C0}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,54 +74,173 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 15,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Cadastro de Categorias.sql",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\Cadastro de Categorias.sql",
+              "RelativeDocumentMoniker": "Cadastro de Categorias.sql",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\Cadastro de Categorias.sql",
+              "RelativeToolTip": "Cadastro de Categorias.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-15T20:26:52.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "ProdutosApp\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:44:41.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "ProdutosApp\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:44:08.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "ProdutosApp\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:32:59.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250315193021_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Migrations\\20250315193021_Initial.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Migrations\\20250315193021_Initial.cs",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Migrations\\20250315193021_Initial.cs",
+              "RelativeToolTip": "ProdutosApp\\Migrations\\20250315193021_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:30:22.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProdutosApp.http",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\ProdutosApp.http",
+              "RelativeDocumentMoniker": "ProdutosApp\\ProdutosApp.http",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\ProdutosApp.http",
+              "RelativeToolTip": "ProdutosApp\\ProdutosApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-15T19:24:58.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Contexts\\DataContext.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Contexts\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Contexts\\DataContext.cs",
+              "RelativeToolTip": "ProdutosApp\\Contexts\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:08:44.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdutoMap.cs",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Mappings\\ProdutoMap.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Mappings\\ProdutoMap.cs",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Mappings\\ProdutoMap.cs",
+              "RelativeToolTip": "ProdutosApp\\Mappings\\ProdutoMap.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:28:36.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Mappings\\CategoriaMap.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Mappings\\CategoriaMap.cs",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Mappings\\CategoriaMap.cs",
+              "RelativeToolTip": "ProdutosApp\\Mappings\\CategoriaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:28:04.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\Entities\\Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Entities\\Produto.cs",
               "RelativeDocumentMoniker": "ProdutosApp\\Entities\\Produto.cs",
-              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Entities\\Produto.cs",
               "RelativeToolTip": "ProdutosApp\\Entities\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T20:34:36.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\Entities\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Entities\\Categoria.cs",
               "RelativeDocumentMoniker": "ProdutosApp\\Entities\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Entities\\Categoria.cs",
               "RelativeToolTip": "ProdutosApp\\Entities\\Categoria.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T20:34:20.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProdutosApp",
-              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\ProdutosApp.csproj",
+              "DocumentIndex": 12,
+              "Title": "ProdutosApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\ProdutosApp.csproj",
               "RelativeDocumentMoniker": "ProdutosApp\\ProdutosApp.csproj",
-              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\ProdutosApp.csproj",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\ProdutosApp.csproj",
               "RelativeToolTip": "ProdutosApp\\ProdutosApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-08T20:19:14.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T20:19:14.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\docker-compose.yml",
               "RelativeDocumentMoniker": "ProdutosApp\\docker-compose.yml",
-              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\docker-compose.yml",
               "RelativeToolTip": "ProdutosApp\\docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
@@ -94,11 +249,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "ProdutosController.cs",
-              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\Controllers\\ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "ProdutosApp\\Controllers\\ProdutosController.cs",
-              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Controllers\\ProdutosController.cs",
               "RelativeToolTip": "ProdutosApp\\Controllers\\ProdutosController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAUwC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,24 +262,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CategoriasController.cs",
-              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\Controllers\\CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "ProdutosApp\\Controllers\\CategoriasController.cs",
-              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Controllers\\CategoriasController.cs",
               "RelativeToolTip": "ProdutosApp\\Controllers\\CategoriasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T18:14:54.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Program.cs",
               "RelativeDocumentMoniker": "ProdutosApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas C# Sabado\\ProdutosApp\\ProdutosApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Coti 307 - 12\\Desktop\\Anderson Aulas CSharp Sabado\\ProdutosApp\\ProdutosApp\\Program.cs",
               "RelativeToolTip": "ProdutosApp\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAmwBAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
